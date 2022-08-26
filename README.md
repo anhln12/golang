@@ -1,6 +1,7 @@
 # golang
-```
 Cloud đang là xu thế của hiện tại và tương lai, việc một lập trình viên biết lập trình và sử dụng các công cụ của Cloud sẽ khiến giá trị của bạn được nâng cao rất nhiều. Trong series này ta sẽ tìm hiểu về hệ thống Serverless của AWS và cách lập trình với các dịch vụ Serverless đó sử dụng Golang. Mong rằng sẽ hữu ích với các bạn 😁. Series gồm 11 bài sau:
+
+```
 Bài 1 - Serverless và AWS Lambda
 Bài 2 - Build REST API with AWS API Gateway
 Bài 3 - Integrate AWS Lambda with DynamoDB for data persistence
